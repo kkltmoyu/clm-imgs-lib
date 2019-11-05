@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>会员任务icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="56" height="56" rx="4"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFC900" offset="0%"></stop>
+            <stop stop-color="#FF9800" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFE211" offset="0%"></stop>
+            <stop stop-color="#FFC107" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4_会员主页/2_会员任务/2_Hi-Fi/2_任务进行中1" transform="translate(-275.000000, -20.000000)">
+            <g id="1_通用组件/0_图形/3_图标/56x56/会员任务" transform="translate(275.000000, 20.000000)">
+                <g id="Layer_1">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <rect stroke-opacity="0.536911232" stroke="#EDA700" stroke-width="0.5" x="0.25" y="0.25" width="55.5" height="55.5" rx="4"></rect>
+                    <g mask="url(#mask-2)">
+                        <g transform="translate(34.222222, 28.000000) scale(-1, 1) translate(-34.222222, -28.000000) translate(7.777778, 6.500000)">
+                            <path d="M29.6125514,36.7169309 L39.97332,28.5874837 C40.9156625,27.8484431 42.2729357,27.9145163 43.1352916,28.742878 L43.1352916,28.742878 C44.1338747,29.7021626 44.0776341,31.292813 43.0140618,32.1835772 L30.7948538,42.4126829 L29.6125514,36.7169309 L29.6125514,36.7169309 Z" id="Shape" stroke="none" fill="#FFB02B" fill-rule="evenodd"></path>
+                            <path d="M4.80794653,42.5289228 L0,32.3353008 L9.77711612,27.4520041 C12.1979616,26.2431098 14.9550008,25.8393293 17.6308037,26.3018415 L30.6123843,28.5471057 C31.8459282,28.7600081 32.7007853,29.8722398 32.5683074,31.0921463 L32.5558095,31.2096098 C32.4245815,32.424622 31.3585096,33.3349634 30.111218,33.2970325 L22.2887753,33.0608821 L32.1121337,36.7169309 L42.4729023,28.5874837 C43.4152448,27.8484431 44.772518,27.9145163 45.6348739,28.742878 L45.6348739,28.742878 C46.633457,29.7021626 46.5772164,31.292813 45.5136441,32.1835772 L33.2944361,42.4126829 C32.6570426,42.9461626 31.7884378,43.1309228 30.9823225,42.9057846 L14.1963776,38.2023537 C12.7241236,37.7900081 11.1393885,38.0604187 9.89709607,38.9377236 L4.80794653,42.5289228 L4.80794653,42.5289228 Z" id="Shape" stroke="none" fill="#FFC14D" fill-rule="evenodd"></path>
+                            <ellipse id="Oval" stroke="none" fill="url(#linearGradient-3)" fill-rule="evenodd" cx="42.6349206" cy="9.96341463" rx="10.2539683" ry="9.96341463"></ellipse>
+                            <ellipse id="Oval" stroke="#FEB241" stroke-width="1.1" fill="none" cx="42.6349206" cy="9.96341463" rx="8.0952381" ry="7.86585366"></ellipse>
+                            <ellipse id="Oval" stroke="none" fill="url(#linearGradient-4)" fill-rule="evenodd" cx="30.3926483" cy="17.6544715" rx="7.49874687" ry="7.34146341"></ellipse>
+                            <ellipse id="Oval" stroke="#FECF42" stroke-width="1" fill="none" cx="30.3926483" cy="17.6544715" rx="5.62406015" ry="5.50609756"></ellipse>
+                            <path d="M30.1262155,29.5479919 C30.8885881,29.6642317 31.409751,30.3616707 31.2922707,31.1080528 C31.1735405,31.854435 30.4611596,32.3646667 29.698787,32.2496504 C28.9364144,32.1334106 29.0301487,31.4898089 29.1488789,30.7446504 C29.2663592,29.9982683 29.3650927,29.4329756 30.1262155,29.5479919 L30.1262155,29.5479919 Z" id="Shape" stroke="none" fill="#FFD69B" fill-rule="evenodd"></path>
+                        </g>
+                    </g>
+                    <path d="M33,24 C30.7908498,24 29,22.2091699 29,20 C29,22.2091699 27.2091502,24 25,24 C27.2091502,24 29,25.7908301 29,28 C29,25.7908301 30.7908498,24 33,24" id="Fill-1" fill-opacity="0.7" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                    <path d="M22,16 C19.2385623,16 17,13.7614623 17,11 C17,13.7614623 14.7614377,16 12,16 C14.7614377,16 17,18.2385377 17,21 C17,18.2385377 19.2385623,16 22,16" id="Fill-1-Copy" fill-opacity="0.6" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
